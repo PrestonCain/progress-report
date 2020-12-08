@@ -1,16 +1,16 @@
 # Status Report
 
-#### Your name
+#### Your Name
 
-TODO
+Preston Cain
 
 #### Your section leader's name
 
-TODO
+N/a
 
 #### Project title
 
-TODO
+Playstatioon 5 instock Tracker
 
 ***
 
@@ -18,12 +18,14 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have completely the entire coding part of my project completely.
+
 
 #### What have you not done for your project yet?
 
-TODO
+I have not submitted my project or done the presentation part yet.
+
 
 #### What problems, if any, have you encountered?
 
-TODO
+I had a problem with setting up the program to text my phone directly, but I was able to over come this problem.
